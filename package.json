@@ -1,8 +1,8 @@
 {
   "name": "advent-of-code",
   "private": true,
-  "version": "1.0.0",
-  "description": "2021 Advent of Code",
+  "version": "2022",
+  "description": "Advent of Code",
   "main": "src/index.ts",
   "type": "module",
   "repository": "https://github.com/mckelveygreg/advent-of-code.git",
@@ -17,17 +17,16 @@
     "precommit": "yarn lint-staged"
   },
   "devDependencies": {
-    "@20i/eslint-config": "^1.1.1",
-    "@types/eslint": "^8",
-    "@types/node": "^16.11.11",
-    "@types/prettier": "^2",
-    "esbuild": "^0.14.2",
-    "eslint": "^8.3.0",
-    "husky": "^7.0.0",
-    "lint-staged": "^12.1.2",
-    "nodemon": "^2.0.15",
-    "pinst": "^2.0.0",
-    "prettier": "^2.5.0",
-    "typescript": "^4.5.2"
+    "@20i/eslint-config": "^2.3.0",
+    "@types/eslint": "^8.4.10",
+    "@types/node": "^18.11.10",
+    "@types/prettier": "^2.7.1",
+    "esbuild": "^0.15.16",
+    "eslint": "^8.28.0",
+    "husky": "^8.0.2",
+    "lint-staged": "^13.0.4",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.0",
+    "typescript": "^4.9.3"
   }
 }
