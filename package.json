@@ -3,7 +3,7 @@
   "private": true,
   "version": "2022",
   "description": "Advent of Code",
-  "main": "src/index.ts",
+  "main": "src/2022/index.ts",
   "type": "module",
   "repository": "https://github.com/mckelveygreg/advent-of-code.git",
   "author": "Greg McKelvey <mckelveygreg@gmail.com>",
